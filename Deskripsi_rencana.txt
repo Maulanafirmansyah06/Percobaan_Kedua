@@ -1,6 +1,6 @@
 Deskripsi resolusi
 - breakdown kecil apa yang dibutuhkan
 # belajar IoT lagi
- - jeston
+ - raspberry
 - mempelajari dan mengikuti tren
 # cari lewat youtube
