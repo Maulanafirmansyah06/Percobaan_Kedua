@@ -3,3 +3,4 @@ Hal yang hendak dicapai
 - Bisa membuat terobosan baru
 - Bisa fasih bahasa inggris
 - Bisa menggunakan tools IoT
+- Bisa punya rumah
